@@ -118,3 +118,9 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
+
+## View SQL Schema in file
+
+```bash
+schema.sql
+```
